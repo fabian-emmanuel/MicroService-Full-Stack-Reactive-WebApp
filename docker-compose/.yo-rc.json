@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "blog", "store"],
+    "directoryPath": "../",
+    "gatewayType": "SpringCloudGateway",
+    "clusteredDbApps": [],
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "deploymentType": "docker-compose",
+    "dockerRepositoryName": "marble",
+    "jwtSecretKey": "NDE3ZjViNDU4YTNkNDAwMjc5NGNjOWU3MGMyNGZhOGFjYjkzODNiZjg1ODU5YzE2ZTI5YjI2MjUyMWZlNzgyZWI2OTM5ZTAyNjI5NzllOTExMGVhMjE4MjVlMDJlZWM5MzBlYQ=="
+  }
+}
